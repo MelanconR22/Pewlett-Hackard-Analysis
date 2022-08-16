@@ -5,6 +5,15 @@ Pewlett Hackard is a large company boasting several thousand employees and has b
 
 # Results: 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+- The following shows a breakdown of the number of positions currently filled by employees who qualify for retirement in the near future:
+
+![Screenshot 2022-08-16 152727](https://user-images.githubusercontent.com/107599510/184981526-a68cc15b-0dff-42bd-b13d-f297ef1b2f75.png)
+
+- The following shows a breakdown of the number of employees by position that are eligible to be mentored to fill future vacated roles:
+
+![Screenshot 2022-08-16 155514](https://user-images.githubusercontent.com/107599510/184984951-c37b84b3-b728-4514-b20d-f2c933e34161.png)
+
+-
 
 # Summary: 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
