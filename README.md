@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 # Overview of the analysis: 
-Explain the purpose of this analysis.
+Pewlett Hackard is a large company boasting several thousand employees and has been in business for many years.  As baby boomers retire at a rapid rate, Pewlett Hackard is looking to the future and formulating a plan to navigate future retirements.  They are doing so by analyzing which employees may be ready to retire in the near future and determing potential hiring needs to fill the vacated positions.  The executives also want to know if they the number of staff available to start a mentorship program to fill roles that will be vacated by retirements in the near future.
 
 # Results: 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
