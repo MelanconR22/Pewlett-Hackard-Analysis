@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 # Overview of the analysis: 
-Pewlett Hackard is a large company boasting several thousand employees and has been in business for many years.  As baby boomers retire at a rapid rate, Pewlett Hackard is looking to the future and formulating a plan to navigate future retirements.  They are doing so by analyzing which employees may be ready to retire in the near future and determing potential hiring needs to fill the vacated positions.  The executives also want to know if they the number of staff available to start a mentorship program to fill roles that will be vacated by retirements in the near future.
+Pewlett Hackard is a large company boasting several thousand (300,000 +) employees and has been in business for many years.  As baby boomers retire at a rapid rate, Pewlett Hackard is looking to the future and formulating a plan to navigate future retirements.  They are doing so by analyzing which employees may be ready to retire in the near future and determing potential hiring needs to fill the vacated positions.  The executives also want to know if they the number of staff available to start a mentorship program to fill roles that will be vacated by retirements in the near future.
 
 # Results: 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
@@ -49,3 +49,5 @@ When considering a mentorship program, it would make sense to filter potential m
 What happens if we take a look at all employees with 8+ years of experience in their current role regardless of age?  Let's take a look:
 
 ![Chart Employee 8](https://user-images.githubusercontent.com/107599510/185031172-90eded64-09fc-4175-bb55-a4798bfe4606.png)
+
+By expanding the mentorship parameters to consider experience and loyalty with the company instead of just age provides many more opportunities for employees to join the mentorship program.  The number of employees to be considered using this as a parameter may provide too great of results.  Pewlett Hackard should consider combining a combination of age plus years of experience in current role to find the right mix of mentorship eligible employees.
