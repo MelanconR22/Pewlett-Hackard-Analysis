@@ -15,12 +15,13 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 - The data above shows that the Senior Engineer is the position that is most at risk for the "silver tsunami" of retirement with 25,916 employees eligible for retirement.  Pewlett Hackard currently has 252 staff in house to mentor to fill those roles which is less than one percent or 0.97%.  This means that 99% of this position will need be filled by new employees in order to maintain current staffing levels.
 
-- From a percentage standpoint, 
+- From a percentage standpoint, the Assistant Engineer is the role that is best positioned to hire internal candidates to fill vacated positions in the future. This position has 62 employees or 5.69% that would be eligible to fill the 1090 positions that could come available in the near future.
 
 # Summary: 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
-![Chart Employee](https://user-images.githubusercontent.com/107599510/184996217-531dd1e7-1207-471e-8700-d33f045f107f.png)
-
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+- Overall, Pewelett Hackard has a potential 72,458 positions that could become vacant as employees make the decision to retire.  There are currently 1,549 employees or 2.14% eligible for a mentorship program to fill those positions.  This leaves a total of 70,909 positions to fill assuming that all eligible employees retire as expected and that the remaining employees accept the mentorship program and fill the vacant position.
+
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
