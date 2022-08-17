@@ -27,3 +27,25 @@ Provide high-level responses to the following questions, then provide two additi
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 - There are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.  The Assistant Engineer position has the highest percentage of employees ready to be mentored to fill positions at 5.69% and Senior Engineering has the lowest percentage at 0.97%.  This is not including the Manager role which has 2 positions eligible for retirement and 0 employees eligible for mentorship program.  
+
+### Additional insight into "silver tsunami":
+
+- The following chart represents the number of employees eligible for retirement as well as number of employees eligible for mentorship program:
+
+![Chart Employee 65](https://user-images.githubusercontent.com/107599510/185025865-ecef53a5-a5b9-4b51-8e5c-c8d3d3bce621.png)
+
+The data from this chart was compiled by iterating through an employee database to return employees with a birthdate between 1/1/1952 and 12/31/1955.  This group represents employees that are eligible for retirement in the near future.  A mentorship program is being created to prepare the next generation of leaders.  The employees eligible for the mentorship program are represented by employees with a birthdate of 1/1/1965 to 12/31/1965.  There are enough employees to mentor the mentorship group of employees.  However, there would still be a large number of positions that would need to be filled in order to maintain current staffing levels if the retirement eligible group of employess retired in a short amount of time.
+
+Choosing employees only from the year 1965 does not produce enough mentor opportunities which would leave the company in a position to hire many outside individuals to fill senior roles at the company.  While it is not a bad business practice to hire external employees, the company can earn some loyalty by making an effort to fill as many positions as possible with internal candidates.  
+
+What would happen to the number of eligible mentorship employees if we expanded the search to include employees with a birtdate between 1/1/1963 and 12/31/1965?  Let's take a look:
+
+![Chart Employee 63 65](https://user-images.githubusercontent.com/107599510/185025938-d41b5f15-84a9-4869-a1bc-cbdcea5c8515.png)
+
+Wow, what a difference expanding the period of time makes.  Four positions have 100% or more employees available to fill a retirement position which would allow the company to promote from within and hire external candidates for junior roles.  The staff category has 115.61% of employees eligible for mentorship when compared to the number of potential retirees.  The Senior Engineer and Senior Staff role have 32.15% and 34.75% of mentorship eligible employees available to fill vacated positions.
+
+When considering a mentorship program, it would make sense to filter potential mentorees by their age.  Is there another category that can be reviewed to find potentially qualified employess to join a mentorship program to become a future leader of the company?  While experience comes with age, it might be beneficial to consider loyal employees who have worked at the company for 8 or more years in their current role but may not fall into an age category.  Their level of experience and loyalty would warrant reviewing the opportunity to be eligible for a mentorship program.  
+
+What happens if we take a look at all employees with 8+ years of experience in their current role regardless of age?  Let's take a look:
+
+![Chart Employee 8](https://user-images.githubusercontent.com/107599510/185031172-90eded64-09fc-4175-bb55-a4798bfe4606.png)
