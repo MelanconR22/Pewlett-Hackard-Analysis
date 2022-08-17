@@ -20,8 +20,10 @@ Provide a bulleted list with four major points from the two analysis deliverable
 # Summary: 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 - Overall, Pewelett Hackard has a potential 72,458 positions that could become vacant as employees make the decision to retire.  There are currently 1,549 employees or 2.14% eligible for a mentorship program to fill those positions.  This leaves a total of 70,909 positions to fill assuming that all eligible employees retire as expected and that the remaining employees accept the mentorship program and fill the vacant position.
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+- There are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.  The Assistant Engineer position has the highest percentage of employees ready to be mentored to fill positions at 5.69% and Senior Engineering has the lowest percentage at 0.97%.  This is not including the Manager role which has 2 positions eligible for retirement and 0 employees eligible for mentorship program.  
